@@ -29,8 +29,8 @@ In this challenge, you have been tasked with crafting an engaging layout, select
 
 ### Links
 
-- Solution URL: ()
-- Live Site URL: ()
+- Solution URL: (https://github.com/Tornike-Peradze/huddle-page)
+- Live Site URL: (https://tornike-peradze.github.io/huddle-page/)
 
 ## My process
 
